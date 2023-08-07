@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+header > .logo{
+    padding: 15px;
+    background-color: darkblue;
+    color: aliceblue;
+    font-size: 3em;
+    width: 100%;
+}
